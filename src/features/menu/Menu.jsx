@@ -1,6 +1,5 @@
 /* eslint-disable react-refresh/only-export-components */
 import MenuItem from "./MenuItem";
-
 import { useLoaderData } from "react-router-dom";
 import { getMenu } from "../../services/apiRestaurant";
 
